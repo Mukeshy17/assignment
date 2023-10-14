@@ -1,0 +1,21 @@
+.card {
+    background-color: #fff;
+    width: 16rem;
+    height: 10rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex;
+}
+.card img {
+    width: 8rem;
+    height: 8rem;
+    padding: 15px 0px 0px 8px;
+}
+.text{
+    padding: 45px 0px 0px 7px;
+}
+.text h3,p{
+    margin-left: 0;
+    color: black;
+    margin: 0px 0px 0px 0px;
+}

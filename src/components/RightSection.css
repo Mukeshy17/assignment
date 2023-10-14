@@ -1,0 +1,140 @@
+.right-section {
+    background-color: #dbfbfc;
+    height: 692px;
+    padding: 25px 50px 0px 50px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    width: 72.9rem;
+
+}
+.card1 {
+    background-color: #fff;
+    margin-top: 2rem;
+    width: 50rem;
+    height: 18.1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 15px 0px 0px 15px;
+}
+.rotate-90-degrees {
+    transform: rotate(90deg);
+    display: inline-block; 
+  }
+.card13{
+    display: flex;
+}
+.card1 img{
+    margin-left: 5rem;
+    width: 35rem;
+    height: 15rem;
+}
+.card2 {
+    background-color: #fff;
+    margin-top: 2rem;
+    width: 20rem;
+    height: 19rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding-left: 1rem;
+}
+.card2 img {
+    width: 10rem;
+    height: 10rem;
+    margin: 23px 0px 0px 71px;
+}
+.card3 {
+    background-color: #fff;
+    margin-top: 2rem;
+    width: auto;
+    height: 5.5rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0; 
+    border-bottom-right-radius: 0;
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2);
+}
+.card4 {
+    display: flex;
+    padding: 10px 0px 0px 15px;
+}
+.card5{
+    background-color: #fff;
+    margin-top: 1px;
+    width: auto;
+    height: 7rem;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 10px; 
+    border-bottom-right-radius: 10px;
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2);
+}
+.card4 p {
+    margin-left: 15rem;
+    font-size: 0.8rem;
+}
+.card4 img {
+    width: 3.6rem;
+    height: 2.5rem;
+    border-radius: 4px;
+}
+.text1{
+    display: flex;
+}
+.text1 input[type="text"] {
+    border: none;
+    height: 28px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin-top: 13px;
+    margin-left: 48rem;
+    margin-right: 1rem;
+}
+button {
+    height: 2rem;
+    border-radius: 8px;
+    border: none;
+    margin-top: 0.7rem;
+    background-color: aliceblue;
+
+}
+.text1 h4 {
+    margin-top: 15px;
+    margin-left: 1rem;
+
+}
+.text2 {
+    display: flex;
+    font-size: 0.8rem;
+}
+.text2 p{
+    margin-left: 1rem;
+}
+.stock {
+    display: flex;
+    margin-left: 45rem;
+}
+.stock p {
+    margin-left: 3.8rem;
+}
+.title2 {
+    margin-left: 1rem;
+}
+.title2 p{
+    margin-left: 0;
+}
+.title2 h5{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.card12 h4 {
+    margin: 0;
+}
+.card12 p{
+    font-size: 0.8rem;
+}
+.card1 button{
+    margin-left: 36rem;
+    margin-top: 0;
+}
